@@ -1,5 +1,7 @@
 # Capstone-Project
 
+Nicholas Subasic
+
 The capstone assignment involved creating a programming project that would focus on data analytics, prediction and deplotment using python packages such as TkInter. I Conducted my capstone on prediction the price of mobile phones using a data set conatining values/elements that played a varible in the prediction aoutcome.
 
 Tasks:
